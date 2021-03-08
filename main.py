@@ -4,14 +4,15 @@ from question_generator import QuestionGenerator
 import os
 from nltk.corpus import wordnet as wn
 from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.stem.lancaster import LancasterStemmer
 from nltk.tag import pos_tag
 import spacy
 import random
 from word2number import w2n
 # from spacy.language import EntityRecognizer
 
-f=open("output1.txt",'w')
-sys.stdout=f
+# f=open("output1.txt",'w')
+# sys.stdout=f
 
 def add_arguments():
     parser = argparse.ArgumentParser()
@@ -37,7 +38,7 @@ def print_q_with_options(question_list):
             print(str(j+1)+": "+opt)
         print("Ans: "+q['A']+"\n")
 
-def ner(text,nlp):
+def ner(text,nlp,ps):
     doc=nlp(text)
     categories={}
     for ent in doc.ents:
@@ -51,7 +52,23 @@ def ner(text,nlp):
     # print(categories)
     return categories
 
+def isValidOptionSet(distractor,ans):
+    optionsCpy=distractor.copy()
+    optionsCpy.append(ans)
+    for i,op1 in enumerate(optionsCpy):
+        for j,op2 in enumerate(optionsCpy):
+            if(i!=j):
+                op1=str(op1).lower()
+                op2=str(op2).lower()
+                if(op1==op2):
+                    return False
+                if(len(op1.split())==1 and len(op2.split())==1):
+                    if(op1[:-1]==op2 or op1==op2[:-1]):
+                        return False
+    return True
+
 def generate_options(question_list,categories,nlp):
+    # discardedQuestions=[]
     questions_with_options=[]
     for q in question_list:
         doc=nlp(q['A'])
@@ -65,9 +82,26 @@ def generate_options(question_list,categories,nlp):
         if(label not in categories or len(categories[label])<4):
             continue
 
-        possible_options=set([q['A'].replace(rep_word,key) for key in categories[label] if (key not in q['Q'] and key != rep_word)])
+        posReplacements=set([key for key in categories[label] if (key not in q['Q'] and key != rep_word)])
+
+        # possible_options=set([q['A'].replace(rep_word,key) for key in categories[label] if (key not in q['Q'] and key != rep_word)])
         
-        options=random.sample(possible_options,3)
+        # options=random.sample(possible_options,3)
+        distractors=random.sample(posReplacements,3)
+        # print(distractors)
+        tries=0
+        while(not isValidOptionSet(distractors,rep_word)):
+            tries=tries+1
+            # print(distractors)
+            distractors=random.sample(posReplacements,3)
+            if(tries>=5):
+                break
+
+        if(tries>=5):
+            continue
+
+        options=[q['A'].replace(rep_word,key) for key in distractors]
+        
         options.append(q['A'])
 
         random.shuffle(options)
@@ -76,7 +110,7 @@ def generate_options(question_list,categories,nlp):
 
         question={'Q': q['Q'],'A':q['A'],'score': q['score'],'options':options}
         questions_with_options.append(question)
-
+    # printQuestions(discardedQuestions)
     return questions_with_options
 
 
@@ -84,7 +118,9 @@ def cleanQuestions(question_list):
     cleanQs = []
     for q in question_list:
         found = False
-        if(len(q['A'].split()) > 3):
+        if(float(q["score"])<1.5):
+            continue
+        if(len(q['A'].split()) > 5):
             found = True
         words = word_tokenize(q['Q'])
         for w in words:
@@ -116,13 +152,16 @@ if __name__ == '__main__':
     text = readFile.read()
     # print(text)
     question_list = q.generate_question(text)
-    # print(question_list)
+    print(len(question_list))
     question_list = cleanQuestions(question_list)
-    # printQuestions(question_list)
+    print(len(question_list))
     nlp=spacy.load('en_core_web_sm')
     # print(get_noun_list(text))
     # print(pos_tag(["9"]))
-    categories=ner(text,nlp)
+    ps=LancasterStemmer()
+    categories=ner(text,nlp,ps)
+    # for cat in categories:
+    #     print(cat)
     # print(ner(text,nlp))
     # print(EntityRecognizer())
 
@@ -133,7 +172,7 @@ if __name__ == '__main__':
     #     print(category)
     #     print(words)
     q_with_options=generate_options(question_list,categories,nlp)
-    # print(q_with_options)
-    print_q_with_options(q_with_options)
+    print(len(q_with_options))
+    # print_q_with_options(q_with_options)
 
     # test(nlp)

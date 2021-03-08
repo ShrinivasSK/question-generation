@@ -1,259 +1,357 @@
 Q1: When did the war effectively end at the Battle of Appomattox Court House?
 1: on April 9,1865
-2: on April 9, 1865
-3: on April 1861
-4: on September 1862
+2: on four years
+3: on 1863
+4: on April 1861
 Ans: on April 9,1865
 
 Q2: Who issued the Emancipation Proclamation in September 1862?
-1: Lincoln
-2: Reconstruction
-3: Bell
-4: Confederate
+1: the Confederate Congress
+2: Lincoln
+3: the Eastern Theater
+4: Confederate States of America
 Ans: Lincoln
 
-Q3: What accounted for more American military deaths than all other wars combined until the Vietnam War?
-1: the Civil War
-2: The Civil War
-3: the "Southern States"
-4: The civil war
-Ans: the Civil War
-
-Q4: Who supported banning slavery in all the U. S. territories in the 1860 presidential election?
-1: Democrat
+Q3: Who supported banning slavery in all the U. S. territories in the 1860 presidential election?
+1: Confederates
 2: Republicans
-3: Republican
-4: Democratic
+3: Americans
+4: Southern
 Ans: Republicans
 
-Q5: When did Robert E. Lee's Confederate incursion north end at the Battle of Gettysburg?
-1: in 1863
-2: in two months
-3: in April 9, 1865
-4: in April 1861
+Q4: When did Robert E. Lee's Confederate incursion north end at the Battle of Gettysburg?
+1: in September 1862
+2: in four years
+3: in just over a month
+4: in 1863
 Ans: in 1863
 
+Q5. Whose March 4,1861, inaugural address declared that Abraham Lincoln's administration would not initiate a civil war?
+1: Republican Party's March 4,1861, inaugural address
+2: Appomattox Court House's March 4,1861, inaugural address
+3: Reconstruction's March 4,1861, inaugural address
+4: Lincoln's March 4,1861, inaugural address
+Ans: Lincoln's March 4,1861, inaugural address
+
 Q6: When did western successes lead to Ulysses S. Grant's command of all Union armies?
-1: in March 4, 1861
+1: in April 1861
 2: in November 1860
-3: in 1861 to 1865
+3: in April 9, 1865
 4: in 1864
 Ans: in 1864
 
 Q7: What ended with Confederate General Robert E. Lee's surrender at Appomattox Court House?
-1: Stephen A. Douglas''s escape attempt
-2: William Tecumseh Sherman's escape attempt
-3: James Buchanan's escape attempt
-4: Lee's escape attempt
+1: James Buchanan's escape attempt
+2: Lee's escape attempt
+3: John Bell's's escape attempt
+4: Douglas's escape attempt
 Ans: Lee's escape attempt
 
 Q8: When did the Union destroy the Confederate river navy?
-1: by 1863
-2: by 1864
-3: by the 19th century
+1: by four years
+2: by the 19th century
+3: by April 9, 1865
 4: by summer 1862
 Ans: by summer 1862
 
-Q9: Whose escape attempt ended with Confederate General Robert E. Lee's surrender at Appomattox Court House?
-1: Lee's escape attempt
-2: Douglas's escape attempt
-3: William Tecumseh Sherman's escape attempt
-4: James Buchanan's escape attempt
+Q9: What did Republicans support banning slavery in all the U. S. territories in?
+1: in the another 12 years presidential election
+2: in the 1864 presidential election
+3: in the 1860 presidential election
+4: in the the 19th century presidential election
+Ans: in the 1860 presidential election
+
+Q10: Whose escape attempt ended with Confederate General Robert E. Lee's surrender at Appomattox Court House?
+1: William Tecumseh Sherman's escape attempt
+2: James Buchanan's escape attempt
+3: Abraham Lincoln's escape attempt
+4: Lee's escape attempt
 Ans: Lee's escape attempt
 
-Q10: Who was the first Republican Party candidate to win the presidency?
-1: Abraham Lincoln
-2: Robert E. Lee
-3: Stephen A. Douglas'
-4: Robert E. Lee's
+Q11: Who was the first Republican Party candidate to win the presidency?
+1: Douglas
+2: James Buchanan
+3: Abraham Lincoln
+4: Robert E. Lee
 Ans: Abraham Lincoln
 
-Q11: When did Lincoln issue the Emancipation Proclamation?
+Q12: What declared that Abraham Lincoln's administration would not initiate a civil war?
+1: The American Civil War's March 4,1861, inaugural address
+2: pro-Union's March 4,1861, inaugural address
+3: Lincoln's March 4,1861, inaugural address
+4: the Eastern Theater's March 4,1861, inaugural address
+Ans: Lincoln's March 4,1861, inaugural address
+
+Q13: When did Lincoln issue the Emancipation Proclamation?
 1: in September 1862
-2: in November 1860
-3: in just over a month
-4: in two months
+2: in April 9, 1865
+3: in 1860
+4: in April 12, 1861
 Ans: in September 1862
 
-Q12: Who won the November 1860 presidential election on an anti-slavery platform?
-1: Abraham Lincoln
-2: Robert E. Lee's
-3: Douglas
-4: William Tecumseh Sherman
+Q14: What did Lee's escape attempt end with Confederate General Robert E. Lee's surrender at?
+1: at Appomattox Court House
+2: at Ulysses S. Grant's House
+3: at Republican Party House
+4: at Appomattox Court House House
+Ans: at Appomattox Court House
+
+Q15: Who won the November 1860 presidential election on an anti-slavery platform?
+1: Robert E. Lee
+2: Stephen A. Douglas'
+3: John Bell's
+4: Abraham Lincoln
 Ans: Abraham Lincoln
 
-Q13: What remains the deadliest military conflict in American history?
-1: the Civil War
-2: The Civil War
-3: the Vietnam War
-4: the "Southern States"
-Ans: the Civil War
-
-Q14: Who was led by Abraham Lincoln?
-1: Americans
+Q16: Who was led by Abraham Lincoln?
+1: American
 2: Republicans
-3: American
+3: Democrat
 4: Democratic
 Ans: Republicans
 
-Q15: Where did nothing substantial develop due to intervention by federal troops?
-1: in Florida
-2: in Maryland
-3: in Virginia
-4: in the United States
+Q17: Where did nothing substantial develop due to intervention by federal troops?
+1: in Maryland
+2: in Georgia
+3: in Vicksburg
+4: in Alabama
 Ans: in Maryland
 
-Q16: When did the Union and the Confederacy quickly raise volunteer and conscription armies that fought mostly in the South?
-1: for four years
-2: for 1860
-3: for February 1861
-4: for April 12, 1861
+Q18: When did the Union and the Confederacy quickly raise volunteer and conscription armies that fought mostly in the South?
+1: for 1864
+2: for 1863
+3: for four years
+4: for April 1861
 Ans: for four years
 
-Q17: What secured a plurality of the popular votes and a majority of the electoral votes nationally?
-1: the Confederate Congress
-2: the Emancipation Proclamation
-3: Confederate States of America
-4: the Republican Party
+Q19: What secured a plurality of the popular votes and a majority of the electoral votes nationally?
+1: Electoral College
+2: the Eastern Theater
+3: the Republican Party
+4: Lincoln
 Ans: the Republican Party
 
-Q18: What did the Union inflict an ever-tightening naval blockade of?
-1: of Republican Party ports
-2: of the Confederate Congress ports
-3: of Confederate ports
-4: of the Emancipation Proclamation ports
+Q20: What did the Union inflict an ever-tightening naval blockade of?
+1: of the Emancipation Proclamation ports
+2: of Confederate ports
+3: of Appomattox Court House ports
+4: of Confederate States of America ports
 Ans: of Confederate ports
 
-Q19: What remains the subject of cultural and historiographical debate?
-1: The civil war
-2: the Civil War
-3: The Civil War
-4: the Vietnam War
-Ans: the Civil War
+Q21: Who did the persisting myth of the lose?
+1: Appomattox Court House
+2: Cause of the Confederacy
+3: pro-Union
+4: the Eastern Theater
+Ans: Cause of the Confederacy
 
-Q20: What did the successful 1863 Union siege of Vicksburg split the Confederacy in at the Mississippi River?
-1: in two
-2: in 32 million
-3: in Eight
-4: in four million
+Q22: What did the Union destroy by summer 1862?
+1: the Ulysses S. Grant's river navy
+2: the The American Civil War river navy
+3: the Confederate river navy
+4: the Confederate States of America river navy
+Ans: the Confederate river navy
+
+Q23: What did Abraham Lincoln win on an anti-slavery platform?
+1: the summer 1862 presidential election
+2: the April 1861 presidential election
+3: the November 1860 presidential election
+4: the April 12, 1861 presidential election
+Ans: the November 1860 presidential election
+
+Q24: What did the successful 1863 Union siege of Vicksburg split the Confederacy in at the Mississippi River?
+1: in three
+2: in eleven
+3: in two
+4: in seven
 Ans: in two
 
-Q21: Who was Republicans led by?
-1: by Robert E. Lee's
-2: by John Bell's
+Q25: What did the Civil War account for than all other wars combined until the Vietnam War?
+1: for more Republican military deaths
+2: for more Southern military deaths
+3: for more Democratic military deaths
+4: for more American military deaths
+Ans: for more American military deaths
+
+Q26: When did an additional four slave states join the Confederacy?
+1: in March 4, 1861
+2: in the following two months
+3: in just over a month
+4: in June 23
+Ans: in the following two months
+
+Q27: Who was Republicans led by?
+1: by William Tecumseh Sherman
+2: by James Buchanan
 3: by Abraham Lincoln
 4: by Stephen A. Douglas'
 Ans: by Abraham Lincoln
 
-Q22: What is one of the most studied and written about episodes in U. S. history?
-1: the Civil War
-2: The civil war
-3: The Civil War
-4: the Vietnam War
-Ans: the Civil War
+Q28: When did the Union lead to William Tecumseh Sherman and Confederate General Robert E. Lee's march to the sea?
+1: to the fall of Alabama
+2: to the fall of Virginia
+3: to the fall of Atlanta
+4: to the fall of the United States
+Ans: to the fall of Atlanta
 
-Q23: When did the war-torn nation then enter in a partially successful attempt to grant civil rights to freed slaves?
-1: the the Emancipation Proclamation era
-2: the the Confederate Congress era
-3: the Reconstruction era
-4: the Confederate era
+Q29: What joined the Confederacy in the following two months?
+1: three slave states
+2: 32 million slave states
+3: an additional four slave states
+4: four million slave states
+Ans: an additional four slave states
+
+Q30: When did the war-torn nation then enter in a partially successful attempt to grant civil rights to freed slaves?
+1: the Republican Party era
+2: the the Emancipation Proclamation era
+3: the Confederate States of America era
+4: the Reconstruction era
 Ans: the Reconstruction era
 
-Q24: What did the Union seize?
-1: New Orleans
-2: the United States
-3: Delaware
-4: Texas
+Q31: What did the Union seize?
+1: Delaware
+2: New Orleans
+3: Georgia
+4: Mississippi
 Ans: New Orleans
 
-Q25: When did the war-torn nation then enter in a partially successful attempt to rebuild the country?
-1: the the Confederate Congress era
-2: the Ulysses S. Grant's era
-3: the Reconstruction era
-4: the the Eastern Theater era
+Q32: When did the war-torn nation then enter in a partially successful attempt to rebuild the country?
+1: the Electoral College era
+2: the Confederate States of America era
+3: the Lincoln era
+4: the Reconstruction era
 Ans: the Reconstruction era
 
-Q26: What did nothing substantial develop in due to intervention by federal troops?
-1: in Tennessee
-2: in Missouri
+Q33: What did nothing substantial develop in due to intervention by federal troops?
+1: in Maryland
+2: in New Orleans
 3: in Kentucky
-4: in Maryland
+4: in U.S.
 Ans: in Maryland
 
-Q27: When was then much of the Confederate river navy's western armies?
-1: September 1862
-2: 1864
-3: summer 1862
-4: 1860
+Q34: When was then much of the Confederate river navy's western armies?
+1: 1863
+2: summer 1862
+3: 1864
+4: April 1861
 Ans: summer 1862
 
-Q28: Who was elected president?
-1: Appomattox Court House
+Q35: What was among the earliest industrial wars?
+1: Republican Party
+2: Electoral College
+3: the American Civil War
+4: the Eastern Theater
+Ans: the American Civil War
+
+Q36: What declared their secession from the country to form the Confederacy?
+1: an initial eleven slave states
+2: an initial seven slave states
+3: an initial 49 slave states
+4: an initial 34 slave states
+Ans: an initial seven slave states
+
+Q37: What were invited to join the Confederacy?
+1: the eleven remaining slave states
+2: the two remaining slave states
+3: the Eight remaining slave states
+4: the 32 million remaining slave states
+Ans: the two remaining slave states
+
+Q38: What continued to reject calls for secession?
+1: two remaining slave-holding states
+2: An additional four remaining slave-holding states
+3: eight remaining slave-holding states
+4: eleven remaining slave-holding states
+Ans: eight remaining slave-holding states
+
+Q39: Who was elected president?
+1: the Confederate Congress
 2: Lincoln
 3: the Emancipation Proclamation
-4: Union
+4: Ulysses S. Grant's
 Ans: Lincoln
 
-Q29: When did hostilities begin?
+Q40: When did hostilities begin?
 1: on April 12,1861
-2: on four years
-3: on 1860
-4: on 1864
+2: on the 19th century
+3: on another 12 years
+4: on two months
 Ans: on April 12,1861
 
-Q30: Whose escape attempt ended with his surrender at Appomattox Court House?
-1: John Bell's's escape attempt
-2: William Tecumseh Sherman's escape attempt
-3: James Buchanan's escape attempt
+Q41: What were Delaware and Maryland?
+1: the two remaining slave states
+2: the seven remaining slave states
+3: the eleven remaining slave states
+4: the four million remaining slave states
+Ans: the two remaining slave states
+
+Q42: Whose escape attempt ended with his surrender at Appomattox Court House?
+1: Lee's escape attempt
+2: Abraham Lincoln's escape attempt
+3: William Tecumseh Sherman's escape attempt
+4: James Buchanan's escape attempt
+Ans: Lee's escape attempt
+
+Q43: What ended with his surrender at Appomattox Court House?
+1: Robert E. Lee's escape attempt
+2: John Bell's's escape attempt
+3: Douglas's escape attempt
 4: Lee's escape attempt
 Ans: Lee's escape attempt
 
-Q31: What ended with his surrender at Appomattox Court House?
-1: Lee's escape attempt
-2: Robert E. Lee's escape attempt
-3: Stephen A. Douglas''s escape attempt
-4: Abraham Lincoln's escape attempt
-Ans: Lee's escape attempt
-
-Q32: What was the conflict inconclusive during?
-1: during 18611862
-2: during September 1862
-3: during February 1861
-4: during April 9, 1865
+Q44: What was the conflict inconclusive during?
+1: during June 23
+2: during February 1861
+3: during 18611862
+4: during the 19th century
 Ans: during 18611862
 
-Q33: What were the two remaining slave states?
-1: U.S. and Maryland
-2: Tennessee and Maryland
-3: Louisiana and Maryland
-4: Delaware and Maryland
+Q45: Whose March 4,1861, inaugural address declared that his administration would not initiate a civil war?
+1: The American Civil War's March 4,1861, inaugural address
+2: the Eastern Theater's March 4,1861, inaugural address
+3: Bell's March 4,1861, inaugural address
+4: Lincoln's March 4,1861, inaugural address
+Ans: Lincoln's March 4,1861, inaugural address
+
+Q46: What were the two remaining slave states?
+1: Delaware and Maryland
+2: Georgia and Maryland
+3: the United States and Maryland
+4: Louisiana and Maryland
 Ans: Delaware and Maryland
 
-Q34: What were never diplomatically recognized as a joint entity by the government of the United States, nor by that of any foreign country?
+Q47: What did Lee's escape attempt end with his surrender at?
+1: at Appomattox Court House
+2: at Reconstruction House
+3: at Bell House
+4: at the Emancipation Proclamation House
+Ans: at Appomattox Court House
+
+Q48: When did the Union lead to William Tecumseh Sherman and his march to the sea?
+1: to the fall of Maryland
+2: to the fall of South Carolina
+3: to the fall of New Orleans
+4: to the fall of Atlanta
+Ans: to the fall of Atlanta
+
+Q49: What declared that his administration would not initiate a civil war?
+1: Lincoln's March 4,1861, inaugural address
+2: The Republican Party's March 4,1861, inaugural address
+3: Bell's March 4,1861, inaugural address
+4: Confederate's March 4,1861, inaugural address
+Ans: Lincoln's March 4,1861, inaugural address
+
+Q50: What were never diplomatically recognized as a joint entity by the government of the United States, nor by that of any foreign country?
 1: the Confederate states
-2: the pro-Union states
+2: the Bell states
 3: the Reconstruction states
-4: the Appomattox Court House states
+4: the Republican Party states
 Ans: the Confederate states
 
-Q35: What declined?
-1: Georgia
-2: Maryland
-3: Delaware
-4: New Orleans
+Q51: What declined?
+1: Delaware
+2: New Orleans
+3: Alabama
+4: Florida
 Ans: Delaware
-
-Q36: What viewed this as a violation of their constitutional rights?
-1: the European states
-2: the Southern states
-3: the Democratic states
-4: the Republican states
-Ans: the Southern states
-
-Q37: When was then much of its western armies?
-1: another 12 years
-2: four years
-3: summer 1862
-4: February 1861
-Ans: summer 1862
 
